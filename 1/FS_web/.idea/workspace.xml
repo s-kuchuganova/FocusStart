@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7f8c631-8ee6-4e56-9540-1f3385ec1ae1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHkve8VGjM5MHDGF1Qvh1Sl28H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager">
+    <configuration name="flask" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FS_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_APP" value="start.py" />
+        <env name="FLASK_DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="flask" />
+      <option name="PARAMETERS" value="run" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584508822835">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1584508822835" />
+    <state x="296" y="202" width="825" height="411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585189210752">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="296" y="202" width="825" height="411" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1585189210752" />
+    <state x="455" y="124" width="515" height="552" key="EnvironmentVariablesDialog" timestamp="1584508821213">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="455" y="124" width="515" height="552" key="EnvironmentVariablesDialog/70.27.1296.741@70.27.1296.741" timestamp="1584508821213" />
+    <state x="442" y="155" key="FileChooserDialogImpl" timestamp="1585137473697">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="442" y="155" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1585137473697" />
+    <state width="1272" height="164" key="GridCell.Tab.0.bottom" timestamp="1584545473734">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="164" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1584545473734" />
+    <state width="1272" height="164" key="GridCell.Tab.0.center" timestamp="1584545473732">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="164" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1584545473732" />
+    <state width="1272" height="164" key="GridCell.Tab.0.left" timestamp="1584545473731">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="164" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1584545473731" />
+    <state width="1272" height="164" key="GridCell.Tab.0.right" timestamp="1584545473733">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="164" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1584545473733" />
+    <state width="1272" height="205" key="GridCell.Tab.1.bottom" timestamp="1584545470871">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="205" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1584545470871" />
+    <state width="1272" height="205" key="GridCell.Tab.1.center" timestamp="1584545470869">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="205" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1584545470869" />
+    <state width="1272" height="205" key="GridCell.Tab.1.left" timestamp="1584545470869">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="205" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1584545470869" />
+    <state width="1272" height="205" key="GridCell.Tab.1.right" timestamp="1584545470870">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1272" height="205" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1584545470870" />
+    <state x="237" y="31" width="962" height="737" key="SettingsEditor" timestamp="1584508530879">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="237" y="31" width="962" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1584508530879" />
+    <state x="382" y="174" key="run.anything.popup" timestamp="1585128554716">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="382" y="174" key="run.anything.popup/70.27.1296.741@70.27.1296.741" timestamp="1585128554716" />
+  </component>
+</project>
